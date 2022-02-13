@@ -1,0 +1,7 @@
+Step 1 : Start
+Step 2 : initialize num1, num2
+Step 3 : If (num1>num2)
+Step 4 :    Print " num1 "
+Step 5 : Else
+Step 6 :    Print " num2 "
+Step 7 : End
