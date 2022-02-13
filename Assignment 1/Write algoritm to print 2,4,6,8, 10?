@@ -1,0 +1,8 @@
+Step 1 : Start
+Step 2 : initialize num=2
+Step 3 : If (num>=10)
+Step 4 :    Stop
+Step 5 : Else
+Step 6 :    Print " num "
+Step 7 :    num=num+2
+Step 8 : End
