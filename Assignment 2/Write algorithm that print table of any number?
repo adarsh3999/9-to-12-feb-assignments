@@ -1,0 +1,9 @@
+step 1 : Start
+step 2 : Enter a
+Step 3 : Initialize i=1
+Step 4 : If (i<=10)
+Step 5 :    print " a*i "
+Step 6 :    i=i+1
+Step 7 :    goto 4
+Step 8 : else           
+Step 9 : Step
